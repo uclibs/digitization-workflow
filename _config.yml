@@ -32,7 +32,7 @@ url: "https://uclibs.github.io" # the base hostname & protocol for your site, e.
 #plugins:
 #  - jekyll-feed
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 gems:
   - jekyll-feed
 exclude:
