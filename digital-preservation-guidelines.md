@@ -1,3 +1,9 @@
+---
+layout: page
+title: Digital Preservation Guidelines
+permalink: /digital-preservation-guidelines/
+---
+
 Digital Preservation Plan & Guidelines
 
 University of Cincinnati Libraries
