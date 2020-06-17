@@ -109,7 +109,7 @@ contributions and general timelines for completion. This project plan
 should include inputs from all stakeholders, and indicate their roles in
 the project.
 
-The [Digitization Project Scope document]{.underline} \[link\] may serve
+The [Digitization Project Scope document](https://uclibs.github.io/digitization-workflow/assets/digitization-project-scope-template.pdf) may serve
 as a template for project planning. In cases where advanced digitization
 project needs are minimal (e.g., when the project integrates existing
 workflows for preservation treatment, or other technical/metadata
