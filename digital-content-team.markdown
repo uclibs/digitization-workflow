@@ -6,9 +6,9 @@ permalink: /digital-content-team/
 
 **Sidney Gao**  
 Digital Imaging Coordinator  
-gaosy@ucmail.uc.edu
+<gaosy@ucmail.uc.edu>
 
 
 **James Van Mil**  
 Digital Collections & Preservation Librarian  
-vanmiljf@ucmail.uc.edu  
+<vanmiljf@ucmail.uc.edu>
