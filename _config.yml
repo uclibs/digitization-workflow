@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: UCL Libraries Digital Collections Documentation
+title: UC Libraries Digital Collections Documentation
 email: digitalcontent@ucmail.uc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This site hosts documentation regarding UC Libraries' digital collections
