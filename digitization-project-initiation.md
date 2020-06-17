@@ -65,8 +65,8 @@ Guidelines](https://uclibs.github.io/digitization-workflow/digitization-selectio
 understand what materials are well-suited for digitization projects.
 
 If your project is a **basic digitization project**, the first step is
-to complete the [Digital Collection Project Profile]{.underline}
-\[link\]. The Digital Content Team is available to consult and support
+to complete the [Digital Collection Project Profile]
+(https://uclibs.github.io/digitization-workflow/digitization-project-profile/). The Digital Content Team is available to consult and support
 the completion of the project profile. After this document is complete
 and verified by the digital content team, the project will be added to
 the digital collections workflow queue. The Digital Content Team

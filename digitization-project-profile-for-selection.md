@@ -1,4 +1,8 @@
-University of Cincinnati Libraries
+---
+layout: page
+title: Digitization Project Profile
+permalink: /digitization-project-profile/
+---
 
 Prepared by Sidney Gao and James Van Mil -- June 2020
 
