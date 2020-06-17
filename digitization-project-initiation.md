@@ -61,7 +61,7 @@ If you have any questions about starting a project, please contact the
 Digital Content Team at <digitalcontent@ucmail.uc.edu>.
 
 As you start work on any project, please review the [Selection
-Guidelines](https://uclibs.github.io/digitization-workflow/digitizatoin-selection-guidelines/). This document will help you to
+Guidelines](https://uclibs.github.io/digitization-workflow/digitization-selection-guidelines/). This document will help you to
 understand what materials are well-suited for digitization projects.
 
 If your project is a **basic digitization project**, the first step is
