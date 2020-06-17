@@ -1,3 +1,11 @@
+---
+layout: page
+title: Digitization Project Initiation
+permalink: /digitization-project-initiation/
+---
+
+Prepared by James Van Mil and Sidney Gao -- June 2020
+
 The success of digitization project execution depends on the
 collaboration of stakeholders from multiple units across the University
 of Cincinnati Libraries. Digitization projects may range from focused,
@@ -5,11 +13,9 @@ in-house digitization to large-scale, out-sourced digitization. This
 document will identify how to plan different types of digitization
 projects.
 
-Project types
-=============
+### **Project types**
 
-Basic Digitization Projects
----------------------------
+### Basic Digitization Projects
 
 Basic digitization projects are characterized by simplicity in managing
 the execution of the workflow - all stages of the workflows are able to
@@ -37,8 +43,7 @@ this type of project include:
     repository and performing quality assurance checks; finalizing
     project documentation
 
-Advanced Digitization Projects
-------------------------------
+### Advanced Digitization Projects
 
 Advanced digitization projects are characterized by targeting an
 expanded project scope, beyond what typical digitization and ingest
@@ -48,16 +53,15 @@ resources for the project.
 
 Advanced project needs will vary -- some will be marginally more complex
 than basic projects, and other will involve coordination of effort
-across multiple departments within UCL.
+across multiple departments within UCL.  
 
-Starting a Digitization Project
-===============================
+### **Starting a Digitization Project**
 
 If you have any questions about starting a project, please contact the
 Digital Content Team at <digitalcontent@ucmail.uc.edu>.
 
 As you start work on any project, please review the [Selection
-Guidelines]{.underline} \[link\]. This document will help you to
+Guidelines](https://uclibs.github.io/digitization-workflow/digitizatoin-selection-guidelines/). This document will help you to
 understand what materials are well-suited for digitization projects.
 
 If your project is a **basic digitization project**, the first step is

@@ -1,8 +1,10 @@
-Digitization Selection Guidelines
+---
+layout: page
+title: Digitization Selection Guidelines
+permalink: /digitization-selection-guidelines/
+---
 
-University of Cincinnati Libraries
-
-Prepared by James Van Mil and Sidney Gao -- June 2020
+Prepared by Sidney Gao and James Van Mil -- June 2020
 
 This document provides guidelines for determining the suitability of a
 collection for digitization by the Digital Content Team, as well as
@@ -20,16 +22,16 @@ This document addresses selection for library-owned Special Collections
 materials and digital collection building; it does not, however, address
 selection for digitization for access, digitization for preservation, or
 "digitization-on-demand" services, such as digitization requests from
-faculty or researchers.
+faculty or researchers.  
 
-Priorities
+### **Priorities**
 
 These metrics will help to determine the value that the proposed project
 will have as a digital collection in a UC Libraries repository.
 
-Historic Use Patterns
+#### Historic Use Patterns
 
-The collection should [fulfil one of these two criteria]{.underline}:
+The collection should fulfill one of these two criteria:
 
 -   The collection has an *existing* user community whose specific
     research needs are fulfilled by the content being digitized
@@ -42,10 +44,10 @@ The collection should [fulfil one of these two criteria]{.underline}:
     -   e.g. The collection has been requested to use for reference by
         those who cannot access the physical materials
 
-Critical Mass
+#### Critical Mass
 
-The collection will be more impactful if it [fulfils any of these
-criteria]{.underline}:
+The collection will be more impactful if it fulfills any of these
+criteria:
 
 -   The collection is a part of an existing digital collection in a UC
     Libraries repository
@@ -56,9 +58,9 @@ criteria]{.underline}:
 -   The collection complements an existing digital collection in another
     institution's repository
 
-Distinctiveness
+#### Distinctiveness
 
-The collection should [fulfil these three criteria]{.underline}:
+The collection should fulfills these three criteria:
 
 -   The collection represents rare and unique holdings of the UC
     Libraries
@@ -69,9 +71,9 @@ The collection should [fulfil these three criteria]{.underline}:
 -   The digital collection is not yet available publicly online (e.g.
     HathiTrust, Internet Archive, etc.)
 
-Diversity & Inclusion
+#### Diversity & Inclusion
 
-The collection will be more impactful if it fulfils any of these
+The collection will be more impactful if it fulfills any of these
 criteria:
 
 -   The collection is representative of the local community served by
@@ -80,9 +82,9 @@ criteria:
 -   The collection is representative of minority or historically
     underrepresented groups
 
-Object Preservation
+#### Object Preservation
 
-The collection will be more impactful if it fulfils any of these
+The collection will be more impactful if it fulfills any of these
 criteria:
 
 -   The collection is extremely fragile and cannot be handled by a
@@ -90,14 +92,14 @@ criteria:
 
 -   Lack of digitization poses high risk of information loss
 
-Restrictions
+### **Restrictions**
 
 These metrics indicate challenges that the proposed project will pose to
 the Digital Content Team workflow.
 
-Copyright
+#### Copyright
 
-The collection should [fulfil one of these four criteria]{.underline}:
+The collection should fulfill one of these four criteria:
 
 -   The collection is in the public domain
 
@@ -111,9 +113,9 @@ The collection should [fulfil one of these four criteria]{.underline}:
 -   If a copyright holder is possibly known, but not fully determined,
     then the item *must* be evaluated to be low-risk
 
-Content Restrictions
+#### Content Restrictions
 
-The collection should [fulfil one of these two criteria]{.underline}:
+The collection should fulfill one of these two criteria:
 
 -   The collection does not include any Personal Identifying Information
     (PII), such as SSNs, birthdays, or medical information
@@ -121,9 +123,9 @@ The collection should [fulfil one of these two criteria]{.underline}:
 -   If the collection does contain PII, the information can be redacted
     or parts of the collection may be embargoed
 
-Accessibility Needs
+#### Accessibility Needs
 
-The collection should [fulfil one of these two criteria]{.underline}:
+The collection should fulfill one of these two criteria:
 
 -   The collection consists of material that will meet accessibility
     standards when digitized, or
@@ -132,9 +134,9 @@ The collection should [fulfil one of these two criteria]{.underline}:
     will work with the digital content team to formulate a plan to make
     the resulting digital collection accessible[^2]
 
-Preparation
+#### Preparation
 
-The collection should [fulfil these three criteria]{.underline}:
+The collection should fulfill these three criteria:
 
 -   The physical collection has been arranged and catalogued
 
@@ -144,9 +146,9 @@ The collection should [fulfil these three criteria]{.underline}:
 -   If additional preparation is needed, the labor has been identified
     and planned for
 
-Metadata
+#### Metadata
 
-The collection should [fulfil these three criteria]{.underline}:
+The collection should fulfill these three criteria:
 
 -   All digitized objects must have a reasonable amount of metadata so
     that the items are discoverable within a digital collection platform
@@ -158,9 +160,9 @@ The collection should [fulfil these three criteria]{.underline}:
 -   Metadata/Inventory spreadsheet has been filled in to the best of the
     selector's ability
 
-Handling & Condition
+#### Handling & Condition
 
-The collection should [fulfil one of these two criteria]{.underline}:
+The collection should fulfill one of these two criteria:
 
 -   The collection is in good condition and has no specific handling
     concerns
@@ -168,15 +170,15 @@ The collection should [fulfil one of these two criteria]{.underline}:
 -   If the collection is in poor condition, there must be approval and
     oversight by The Preservation Lab
 
-Peripheral Considerations
+### **Peripheral Considerations**
 
 These metrics are not directly evaluated when considering a digitization
 project proposal, but could affect project planning and should therefore
 be kept in mind.
 
-Funding[^3]
+#### Funding[^3]
 
-The collection should [fulfil one of these two criteria]{.underline}:
+The collection should fulfill one of these two criteria:
 
 -   The project does not require external funding
 
@@ -184,7 +186,7 @@ The collection should [fulfil one of these two criteria]{.underline}:
     team must be brought in when appropriate to help develop a grant
     application
 
-Capacity
+#### Capacity
 
 -   *In-house Digitization Projects*
 
@@ -210,5 +212,5 @@ Capacity
     selector.
 
 [^3]: Please contact the digital content team
-    ([[digitalcontent\@ucmail.uc.edu]{.underline}](mailto:digitalcontent@ucmail.uc.edu))
+    ([digitalcontent@ucmail.uc.edu](mailto:digitalcontent@ucmail.uc.edu))
     if it is unclear if external funding is needed.
