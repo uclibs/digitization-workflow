@@ -1,53 +1,56 @@
-University of Cincinnati Libraries
+---
+layout: page
+title: Digitization Project Profile
+permalink: /digitization-project-profile/
+---
 
 Prepared by Sidney Gao and James Van Mil -- June 2020
+
+The Digitization Project Profile will ask you the following questions.
+If you feel ready to submit a Project Profile, you can download a fillable
+PDF [here](https://uclibs.github.io/digitization-workflow/assets/digitization-project-profile-for-selection.pdf).
+
+-
 
 Project Name:
 
 Selector or Project Manager:
 
 Collection Description (include a description of distinctive qualities
-of this collection):
+of this collection):  
 
-Vision
-
+**Vision**  
 What are the goals and objectives for this digital collection? What
 University and UCL goals, missions, and visions are being met?
 
-Impact
-
+**Impact**  
 Define how you will measure the impact of this project. What are the key
 success factors?
 
-Audience
-
+**Audience**  
 Please give a specific, detailed description of an existing or expected
 user community for this digital collection, including historic use
 patterns.
 
-Diversity & Inclusion
-
+**Diversity & Inclusion**  
 Please describe how this collection supports the representation of
 minority and/or historically underrepresented groups.
 
-Materials & Preparation
-
+**Materials & Preparation**  
 Is the collection catalogued? Have items marked for digitization been
 arranged in the desired manner? If not, please explain.
 
-Handling & Preservation
-
+**Handling & Preservation**  
 Describe the condition of items to be digitized: can the items be
 handled safely without oversight or treatment from The Preservation Lab?
 Is there risk of information loss if the collection is not digitized?
 
-Related Collections
-
+**Related Collections**  
 Please describe any related physical or digital collection at UC or
 another institution. Is the collection, or parts of the collection,
 publicly available online in another repository?
 
-Intellectual Property Risks
+**Intellectual Property Risks**
 
 \_\_\_ Donor restrictions \_\_\_ Permissions & use restrictions
 
@@ -55,27 +58,24 @@ Intellectual Property Risks
 
 If you selected any of the above, please describe the risk:
 
-Digital Preservation
-
+**Digital Preservation**  
 What is the size of the collection in pages?
 
 What content types will be digitized?
 
-Metadata
-
+**Metadata**  
 Do you anticipate any challenges in filling out the provided
 Metadata/Inventory spreadsheet and providing the required metadata? If
 so, please explain.
 
-Accessibility
-
+**Accessibility**  
 Does the digitized collection pose significant challenges for meeting
 UCL digital content accessibility standards? Significant challenges
 include needing transcription and alternative text for images. If so,
 please explain.
 
-Access Location
+**Access Location**
 
-\_\_\_ DRC \_\_\_ Scholar\@UC \_\_\_ Luna
+\_\_\_ DRC \_\_\_ Scholar@UC \_\_\_ Luna
 
 \_\_\_ Other repository environment - if applicable, please explain:
