@@ -8,7 +8,7 @@ Prepared by Sidney Gao and James Van Mil -- June 2020
 
 The Digitization Project Profile will ask you the following questions.
 If you feel ready to submit a Project Profile, you can download a fillable
-PDF [here](https://uclibs.github.io/digitization-workflow/assets/digitization-project-profile-for-selection.pdf).
+PDF [here](https://uclibs.github.io/digitization-workflow/assets/digitization-project-profile-for-selection.docx).
 
 -
 
