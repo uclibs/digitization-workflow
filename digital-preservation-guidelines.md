@@ -1,6 +1,8 @@
-Digital Preservation Plan & Guidelines
-
-University of Cincinnati Libraries
+---
+layout: page
+title: Digital Preservation Guidelines
+permalink: /digital-preservation-guidelines/
+---
 
 Prepared by Sidney Gao and James Van Mil -- March 2020
 
@@ -25,9 +27,9 @@ born-digital collections, which is outside the scope of this document.
 
 For any questions about this document, or about the current digital
 preservation plan, please contact the Digital Content Team at
-[<digitalcontent@ucmail.uc.edu>.]{.underline}
+<digitalcontent@ucmail.uc.edu>.
 
-Standards
+### Standards
 
 -   **Open Archival Information System (OAIS)** -- The OAIS model for
     digital preservation has been widely accepted as the standard for
@@ -55,7 +57,7 @@ Standards
     for growing UCL's digital preservation program will ensure that OAIS
     and NDSA Levels standards are met simultaneously.
 
-Challenges
+### Challenges
 
 The challenges UCL face in creating robust digital preservation
 guidelines are not unique. The Digital Content Team has collaborated
@@ -92,7 +94,7 @@ of the most distinct roadblocks.
     this is a need that will grow alongside the growth of digital
     collections.
 
-Strategy
+### Strategy
 
 The Digital Content Team assumes responsibility for digital preservation
 and assessment of all newly digitized collections. The team's strategy
@@ -123,7 +125,7 @@ digital preservation. Given that we are working with existing staffing,
 however, this plan allows us to set realistic goals that lead to
 tangible achievements.
 
-Guidelines
+### Guidelines
 
 In accordance with the strategy of starting small, our current digital
 preservation guidelines are written below. These standards will be
@@ -147,19 +149,22 @@ applied to all newly digitized collections at UC Libraries.
 
     -   APTrust
 
-> In addition, both Isilon storage and APTrust regularly back up
-> servers, providing an extra layer of protection against unexpected
-> disasters.
+    In addition, both Isilon storage and APTrust regularly back up
+    servers, providing an extra layer of protection against unexpected
+    disasters.
 
 -   BagIt will be used to create MD5 checksums for every new digital
     collection, and checksums will be verified after every file
     transfer.
 
 -   The Digital Content Team will maintain documentation logging
-    > permissions and access of relevant stakeholders.
+    permissions and access of relevant stakeholders.
 
     -   No one individual will have R/W access to all copies of digital
-        content.
+        content
+
+    -   Members of the Digital Content Team combined will have R/W access
+        to all copies of digital content.
 
 -   Due to our limiting capacity, minimum viable preservation metadata
     will be stored with each digitized collection:
@@ -168,7 +173,6 @@ applied to all newly digitized collections at UC Libraries.
 
     -   Fixity information
 
-    -   Content data object description
+    -   Content data object description  
 
-> Preservation metadata will be stored on CSV files and packaged
-> alongside preservation copies of digital objects.
+    Preservation metadata will be stored on CSV files and packaged alongside preservation copies of digital objects.

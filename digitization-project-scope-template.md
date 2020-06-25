@@ -7,8 +7,8 @@ permalink: /digitization-project-scope/
 Prepared by Sidney Gao and James Van Mil -- March 2020
 
 The Digitization Project Scope document will contain the following items.
-If you feel ready to complete this document, you can download a fillable
-PDF form [here](https://uclibs.github.io/digitization-workflow/assets/digitization-project-scope-template.pdf).
+If you feel ready to complete this document, you can download the form
+[here](https://uclibs.github.io/digitization-workflow/assets/digitization-project-scope-template.docx).
 
 -
 
