@@ -186,7 +186,7 @@ The collection should fulfill one of these two criteria:
     team must be brought in when appropriate to help develop a grant
     application
 
-#### Capacity
+#### [Capacity](https://uclibs.github.io/digitization-workflow/capacity-equipment/)
 
 -   *In-house Digitization Projects*
 
