@@ -21,7 +21,7 @@ Make sure to read the Project Initiation and Selection Guidelines first!
 If your digitization project proposal requires complex project management,
 you can use the Project Scope template to get started.
 
-[Collection Strategy](/collection-stategy.md)
+[Collection Strategy](/collection-strategy.md)  
 UC Libraries' Collection Strategy for mindfully and sustainably
 growing digital collections.
 
