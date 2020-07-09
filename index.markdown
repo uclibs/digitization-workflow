@@ -4,6 +4,7 @@
 
 layout: home
 ---
+{{site.description}}
 
 [Digitization Project Initiation](/digitization-project-initiation.md)  
 Start here to understand how to initiate a digitization project with
