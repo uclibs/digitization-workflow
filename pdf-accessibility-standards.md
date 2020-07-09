@@ -1,6 +1,8 @@
-Digital Collections PDF Accessibility Standards
-
-University of Cincinnati Libraries
+---
+layout: page
+title: PDF Accessibility Standards
+permalink: /pdf-accessibility-standards/
+---
 
 Prepared by Sidney Gao and James Van Mil -- June 2020
 
@@ -14,9 +16,9 @@ This plan outlines a progressive approach for supporting the
 accessibility needs of PDFs stewarded by the Digital Content Team.
 Further attention is needed to understand how to support the
 accessibility of born-digital collections, which is outside the scope of
-this document.
+this document.  
 
-The PDF/UA Standard
+### The PDF/UA Standard
 
 The Digital Content Team will abide by [PDF Universal Accessibility
 (PDF/UA)
@@ -46,7 +48,7 @@ as follows:
 Please read the document linked above for more detail on the PDF/UA
 standard.
 
-The Plan
+### The Plan
 
 The DCT will address basic PDF accessibility remediation according to
 PDF/UA standards within the digitization workflow, but labor-intensive
@@ -65,7 +67,7 @@ The following section specifies the PDF/UA remediation activities
 stewarded by the Digital Content Team, and those stewarded by the
 selector or project manager.
 
-Digital Content Team
+#### Digital Content Team
 
 Within the course of the normal digitization workflow, the Digital
 Content Team will:
@@ -82,7 +84,7 @@ Content Team will:
 
 -   Set tab order that mirrors logical reading order
 
-Selector/Owner
+#### Selector/Owner
 
 Within the final, on-going phase of digital collection creation, the
 selector or project manager will:

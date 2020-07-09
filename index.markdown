@@ -22,6 +22,18 @@ Make sure to read the Project Initiation and Selection Guidelines first!
 If your digitization project proposal requires complex project management,
 you can use the Project Scope template to get started.
 
+[Collection Strategy](/collection-strategy.md)  
+UC Libraries' Collection Strategy for mindfully and sustainably
+growing digital collections.
+
 [Digital Preservation Guidelines](/digital-preservation-guidelines.md)  
 Read these guidelines to understand how the Digital Content Team stewards all
 incoming digital objects.
+
+[PDF Accessibility Standards](/pdf-accessibility-standards.md)  
+Read these standards to understand the Digital Content Team's commitment to
+creating accessible PDFs for all newly digitized collections.
+
+[Capacity & Equipment](/capacity-equipment.md)  
+Start here to understand how and what the Digital Content Team is capable
+of digitizing.
