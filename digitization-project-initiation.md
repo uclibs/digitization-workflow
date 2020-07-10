@@ -32,7 +32,7 @@ this type of project include:
 -   **Digital Preservation Planning** -- documenting file format risk
     and storage needs
 
--   **Accessibility Review** -- reviewing and correcting basic content
+-   **Accessibility Review and Remediation** -- reviewing and correcting basic content
     accessibility issues
 
 -   **Metadata Review** -- consulting with selector to ensure
