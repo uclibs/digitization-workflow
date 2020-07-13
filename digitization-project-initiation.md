@@ -94,7 +94,7 @@ include any of the following needs:
 -   **Metadata creation/cataloging support** -- metadata creation or
     cataloging; metadata training for student workers
 
--   **Accessibility support** -- addressing challenging content needs,
+-   **Accessibility support and remediation** -- addressing challenging content needs,
     e.g., transcription of handwriting or archaic type, table
     formatting, image description
 
