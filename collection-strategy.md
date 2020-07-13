@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Collection Strategy
+title: Collection Strategy (Draft)
 permalink: /collection-strategy/
 ---
 

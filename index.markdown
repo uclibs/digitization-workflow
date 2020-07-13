@@ -6,6 +6,10 @@ layout: home
 ---
 {{site.description}}
 
+[Collection Strategy](/collection-strategy.md)  
+UC Libraries' Collection Strategy for mindfully and sustainably
+growing digital collections.
+
 [Digitization Project Initiation](/digitization-project-initiation.md)  
 Start here to understand how to initiate a digitization project with
 the Digital Content Team.
@@ -21,10 +25,6 @@ Make sure to read the Project Initiation and Selection Guidelines first!
 [Digitization Project Scope](/digitization-project-scope-template.md)  
 If your digitization project proposal requires complex project management,
 you can use the Project Scope template to get started.
-
-[Collection Strategy](/collection-strategy.md)  
-UC Libraries' Collection Strategy for mindfully and sustainably
-growing digital collections.
 
 [Digital Preservation Guidelines](/digital-preservation-guidelines.md)  
 Read these guidelines to understand how the Digital Content Team stewards all
