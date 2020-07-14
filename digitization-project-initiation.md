@@ -58,7 +58,7 @@ across multiple departments within UCL.
 ### **Starting a Digitization Project**
 
 If you have any questions about starting a project, please contact the
-Digital Content Team at <digitalcontent@ucmail.uc.edu>.
+Digital Collections Team at <digitalcontent@ucmail.uc.edu>.
 
 As you start work on any project, please review the [Selection
 Guidelines](https://uclibs.github.io/digitization-workflow/digitization-selection-guidelines/). This document will help you to
@@ -66,10 +66,10 @@ understand what materials are well-suited for digitization projects.
 
 If your project is a **basic digitization project**, the first step is
 to complete the [Digital Collection Project Profile](https://uclibs.github.io/digitization-workflow/digitization-project-profile/).
-The Digital Content Team is available to consult and support
+The Digital Collections Team is available to consult and support
 the completion of the project profile. After this document is complete
 and verified by the digital content team, the project will be added to
-the digital collections workflow queue. The Digital Content Team
+the digital collections workflow queue. The Digital Collections Team
 maintains two workflow queues: one for projects that demonstrate
 potential for success, and an additional queue for projects which, in
 addition to demonstrating potential for success, **also** **amplify
@@ -80,7 +80,7 @@ If your project is an **advanced digitization project**, the first step
 is to identify an advocate who will serve as project manager - this will
 often be the selector. Next, the project manager should work to identify
 what will be needed to successfully digitize the materials. Working with
-the Digital Content Team to complete the Digital Collection Project
+the Digital Collections Team to complete the Digital Collection Project
 Profile will help to identify these project needs. This is likely to
 include any of the following needs:
 
@@ -98,7 +98,7 @@ include any of the following needs:
     e.g., transcription of handwriting or archaic type, table
     formatting, image description
 
-Although the digital content team will coordinate the integration of
+Although the Digital Collections Team will coordinate the integration of
 advanced workflow needs with the digitization workflow, the
 selector/project manager shall be responsible for arranging, managing,
 and, if necessary, funding this advanced work.
@@ -116,5 +116,5 @@ workflows for preservation treatment, or other technical/metadata
 support), the need for additional project documentation may be waived.
 
 If the project depends on external funding for success, the Digital
-Content Team should be involved in planning for digitization at the
+Collections Team should be involved in planning for digitization at the
 beginning stages of the project.

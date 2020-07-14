@@ -8,10 +8,10 @@ Prepared by Sidney Gao and James Van Mil -- March 2020
 
 Digital preservation efforts are vital to ensuring that UCL's newly
 digitized collections remain accessible for future generations of
-scholars and researchers. The Digital Content Team is dedicated to
+scholars and researchers. The Digital Collections Team is dedicated to
 ensuring that newly digitized collections are responsibly stewarded,
 with the same care that is taken with physical collections. The Digital
-Content Team also recognizes that immediately implementing
+Collections Team also recognizes that immediately implementing
 industry-standard digital preservation policies will negatively impact
 the efficiency of digitization workflows, and is not feasible given
 existing staffing and expertise. Instead, the team works diligently to
@@ -22,11 +22,11 @@ Preservation](http://www.digitalpreservation.gov/documents/NDSA_Levels_Archiving
 
 This plan outlines a progressive approach for supporting the digital
 preservation needs of the digitized content stewarded by the Digital
-Content Team. Further attention is needed to understand how to support
+Collections Team. Further attention is needed to understand how to support
 born-digital collections, which is outside the scope of this document.
 
 For any questions about this document, or about the current digital
-preservation plan, please contact the Digital Content Team at
+preservation plan, please contact the Digital Collections Team at
 <digitalcontent@ucmail.uc.edu>.
 
 ### Standards
@@ -60,7 +60,7 @@ preservation plan, please contact the Digital Content Team at
 ### Challenges
 
 The challenges UCL face in creating robust digital preservation
-guidelines are not unique. The Digital Content Team has collaborated
+guidelines are not unique. The Digital Collections Team has collaborated
 with peer institutions facing similar challenges, and hopes to tackle
 the issue with the help of the supportive academic library community.
 While UCL's challenges are all interdependent, outlined below are three
@@ -71,10 +71,10 @@ of the most distinct roadblocks.
     preservation guidelines and workflows for all newly digitized
     content. Limited staffing means that we do not have existing
     expertise to tackle all issues, or dedicated positions to focus on
-    research and implementation. The Digital Content Team focuses on
+    research and implementation. The Digital Collections Team focuses on
     digital preservation peripherally.
 
--   **Expertise** -- While the Digital Content Team is dedicated to
+-   **Expertise** -- While the Digital Collections Team is dedicated to
     preserving all newly digitized content, members will require
     extensive training and research in order to fill knowledge gaps and
     gain practical skills for workflow implementation. Lack of expertise
@@ -96,24 +96,24 @@ of the most distinct roadblocks.
 
 ### Strategy
 
-The Digital Content Team assumes responsibility for digital preservation
+The Digital Collections Team assumes responsibility for digital preservation
 and assessment of all newly digitized collections. The team's strategy
 for creating a robust digital preservation program involves gradually
 incorporating complex digital preservation activities into the list of
 active responsibilities. By slowly fitting in progressive research,
 planning, and implementation of digital preservation activities when
-possible, the Digital Content Team can reach digital preservation goals
+possible, the Digital Collections Team can reach digital preservation goals
 with existing staffing. Starting small and progressively building on
 existing infrastructure allows the time for members to build theoretical
 and practical expertise in increasingly complex areas of study, as well
 as time for collaboration with peer institutions experiencing similar
 challenges.
 
-This strategy specifically targets the Digital Content Team's two
+This strategy specifically targets the Digital Collections Team's two
 biggest digital preservation roadblocks: labor and expertise. It takes a
 significant amount of labor to gain expertise in and build a digital
 preservation program; spreading responsibilities over a longer period
-allows the Digital Content Team to focus on smaller, more digestible
+allows the Digital Collections Team to focus on smaller, more digestible
 goals that build into a larger digital preservation infrastructure.
 Implementing a slow, controlled approach to building these policies also
 allows frequent assessment and readjustment, as well as time for
@@ -157,13 +157,13 @@ applied to all newly digitized collections at UC Libraries.
     collection, and checksums will be verified after every file
     transfer.
 
--   The Digital Content Team will maintain documentation logging
+-   The Digital Collections Team will maintain documentation logging
     permissions and access of relevant stakeholders.
 
     -   No one individual will have R/W access to all copies of digital
         content
 
-    -   Members of the Digital Content Team combined will have R/W access
+    -   Members of the Digital Collections Team combined will have R/W access
         to all copies of digital content.
 
 -   Due to our limiting capacity, minimum viable preservation metadata

@@ -4,7 +4,7 @@ title: Digital Collection Assessment Tool
 permalink: /assessment-tool/
 ---
 
-The [Digital Collection Assessment Tool](https://uclibs.github.io/digitization-workflow//assets/assessment-tool.docx) was created by and for the Digital Content Team
+The [Digital Collection Assessment Tool](https://uclibs.github.io/digitization-workflow//assets/assessment-tool.docx) was created by and for the Digital Collections Team
 to assess new and existing digital collections. Assessing our collections is
 vital to ensuring proper allocation of resources. Assessing a digital collection includes the following:  
 
