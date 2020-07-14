@@ -34,7 +34,7 @@ incoming digital objects.
 Read these standards to understand the Digital Collections Team's commitment to
 creating accessible PDFs for all newly digitized collections.
 
-[Digital Collections Assessment Tool](/assessment-tool.md)
+[Digital Collections Assessment Tool](/assessment-tool.md)  
 The Digital Collections Team uses this tool to assess digital collections
 periodically after ingest.
 
