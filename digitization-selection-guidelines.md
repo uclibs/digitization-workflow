@@ -211,6 +211,6 @@ The collection should fulfill one of these two criteria:
 [^2]: This may require the commitment of additional resources from the
     selector.
 
-[^3]: Please contact the digital content team
+[^3]: Please contact the digital collections team
     ([digitalcontent@ucmail.uc.edu](mailto:digitalcontent@ucmail.uc.edu))
     if it is unclear if external funding is needed.
