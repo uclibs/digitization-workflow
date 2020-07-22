@@ -34,7 +34,7 @@ Digitization](http://www.archivejournal.net/essays/why-do-we-digitize-the-case-f
 
 ### Collection Strategy
 
-The University of Cincinnati Libraries Digital Content Team prioritizes
+The University of Cincinnati Libraries Digital Collections Team prioritizes
 the selection and digitization of collections that amplify the voices of
 marginalized and unseen communities. We value the creation of digital
 collections that exist at the intersection of diversity, inclusion, and

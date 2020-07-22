@@ -7,7 +7,7 @@ permalink: /digitization-selection-guidelines/
 Prepared by Sidney Gao and James Van Mil -- June 2020
 
 This document provides guidelines for determining the suitability of a
-collection for digitization by the Digital Content Team, as well as
+collection for digitization by the Digital Collections Team, as well as
 providing information to create a successful project proposal. When
 combined with the Digitization Selection Rubric, these guidelines will
 provide a structured, holistic approach to understanding the workflow
@@ -95,7 +95,7 @@ criteria:
 ### **Restrictions**
 
 These metrics indicate challenges that the proposed project will pose to
-the Digital Content Team workflow.
+the Digital Collections Team workflow.
 
 #### Copyright
 
@@ -155,7 +155,7 @@ The collection should fulfill these three criteria:
 
 -   Metadata creation is the responsibility of the collection selector
     or their appointee, unless a specific agreement has been reached
-    with the Digital Content Team
+    with the Digital Collections Team
 
 -   Metadata/Inventory spreadsheet has been filled in to the best of the
     selector's ability

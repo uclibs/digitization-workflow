@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: University of Cincinnati Libraries Digital Collections Documentation
-author: Digital Content Team
+author: Digital Collections Team
 email: digitalcontent@ucmail.uc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This site hosts documentation regarding UC Libraries' digital collections
   policies. Unless otherwise stated, documentation is created and
-  maintained by the Digital Content Team.
+  maintained by the Digital Collections Team.
 baseurl: "/digitization-workflow" # the subpath of your site, e.g. /blog
 url: "https://uclibs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -34,7 +34,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - 
+  -
 
 # Exclude from processing.
 # The following items will not be processed, by default.

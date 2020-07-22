@@ -6,21 +6,21 @@ permalink: /pdf-accessibility-standards/
 
 Prepared by Sidney Gao and James Van Mil -- June 2020
 
-The Digital Content Team is dedicated to ensuring that newly created
+The Digital Collections Team is dedicated to ensuring that newly created
 digital collections are accessible to all users. This document addresses
 the accessibility standards by which PDFs in newly created collections
 will be held. These standards will not be applied to existing PDFs
 ingested to a UC Libraries repository.
 
 This plan outlines a progressive approach for supporting the
-accessibility needs of PDFs stewarded by the Digital Content Team.
+accessibility needs of PDFs stewarded by the Digital Collections Team.
 Further attention is needed to understand how to support the
 accessibility of born-digital collections, which is outside the scope of
 this document.  
 
 ### The PDF/UA Standard
 
-The Digital Content Team will abide by [PDF Universal Accessibility
+The Digital Collections Team will abide by [PDF Universal Accessibility
 (PDF/UA)
 standards](https://www.pdfa.org/wp-content/uploads/2013/08/PDFUA-in-a-Nutshell-PDFUA.pdf)
 for all newly created PDFs. The requirements for PDF/UA compliance are
@@ -64,13 +64,13 @@ final phase, these accessibility remediation activities may be an
 on-going workflow that continues after initial collection ingest.
 
 The following section specifies the PDF/UA remediation activities
-stewarded by the Digital Content Team, and those stewarded by the
+stewarded by the Digital Collections Team, and those stewarded by the
 selector or project manager.
 
-#### Digital Content Team
+#### Digital Collections Team
 
 Within the course of the normal digitization workflow, the Digital
-Content Team will:
+Collections Team will:
 
 -   Categorize all meaningful content as such
 
@@ -93,5 +93,5 @@ selector or project manager will:
 
 -   Provide alternative text for PDFs that contain important visuals
 
-The Digital Content Team is available to aid in project planning for
+The Digital Collections Team is available to aid in project planning for
 these labor-intensive accessibility remediation activities.

@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Digital Content Team
-permalink: /digital-content-team/
+title: Digital Collections Team
+permalink: /digital-collections-team/
 ---
+Please send general questions to <digitalcontent@ucmail.uc.edu>.  
 
 **Sidney Gao**  
 Digital Imaging Coordinator  
