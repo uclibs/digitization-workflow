@@ -5,12 +5,12 @@ date: 2020-08-07
 ---
 
 As James and I settle into our new work-from-home routine, we've worked
-hard on creating new digital collections workflows, policities, and
+hard on creating new digital collections workflows, policies, and
 guidelines for UC Libraries.
 
-After we finished some foundational policies, such as our new Digital
-Collections Strategy and Digitization Selection Guidelines, we turned
-our attention to answering some of the more detailed workflow questions.
+After we finished some foundational policies, such as our new [Collection Strategy](/collection-strategy.md)
+and [Digitization Selection Guidelines](/digitization-selection-guidelines.md),
+we turned our attention to answering some of the more detailed workflow questions.
 One big challenge we're facing is how to make our collections accessible
 while working with limited staffing and resources.
 
@@ -41,6 +41,8 @@ we were eager to analyze our results after the first six.
 
 **Test One**
 
+![Test One](https://uclibs.github.io/digitization-workflow/assets/US-80-9_b01_f02_002-test1.jpg)
+
 This image had a total of 1542 characters.
 
   ABBYY   Google C.V.   Transkribus   Equidox   Acrobat Pro   Tesseract
@@ -48,6 +50,8 @@ This image had a total of 1542 characters.
   64      30            38            135       153           45
 
 **Test Two**
+
+![Test Two](https://uclibs.github.io/digitization-workflow/assets/US-80-9_b01_f04_004-test2.jpg)
 
 This image had a total of 2363 characters.
 
@@ -57,6 +61,8 @@ This image had a total of 2363 characters.
 
 **Test Three**
 
+![Test Three](https://uclibs.github.io/digitization-workflow/assets/US-80-9_b04_f04_004-test3.jpg)
+
 This image had a total of 2790 characters.
 
   ABBYY   Google C.V.   Transkribus   Equidox   Acrobat Pro   Tesseract
@@ -64,6 +70,8 @@ This image had a total of 2790 characters.
   190     109           76            603       265           277
 
 **Test Four**
+
+![Test Four](https://uclibs.github.io/digitization-workflow/assets/US-80-9_b02_f03_003-test4.jpg)
 
 This image had a total of 434 characters.
 
@@ -73,6 +81,8 @@ This image had a total of 434 characters.
 
 **Test Five**
 
+![Test Five](https://uclibs.github.io/digitization-workflow/assets/zhdanov_1956-62_084-test5.jpg)
+
 This image had a total of 805 characters.
 
   ABBYY   Google C.V.   Transkribus   Equidox   Acrobat Pro   Tesseract
@@ -80,6 +90,8 @@ This image had a total of 805 characters.
   58      2             10            516       175           26
 
 **Test Six**
+
+![Test Six](https://uclibs.github.io/digitization-workflow/assets/taftLetters_1901-10-21_1-test6.jpg)
 
 This image had a total of 1372 characters.
 
