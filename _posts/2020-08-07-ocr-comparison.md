@@ -1,7 +1,6 @@
 ---
 layout: post
-title: OCR: Who Does it Best?
-date: 2020-08-07
+title: "OCR: Who Does it Best?"
 ---
 
 As James and I settle into our new work-from-home routine, we've worked
@@ -41,7 +40,7 @@ we were eager to analyze our results after the first six.
 
 **Test One**
 
-![Test One](https://uclibs.github.io/digitization-workflow/assets/US-80-9_b01_f02_002-test1.jpg)
+![Test One]({{ '/assets/US-80-9_b01_f02_002-test1.jpg' | relative_url }})
 
 This image had a total of 1542 characters.
 
@@ -51,7 +50,7 @@ This image had a total of 1542 characters.
 
 **Test Two**
 
-![Test Two](https://uclibs.github.io/digitization-workflow/assets/US-80-9_b01_f04_004-test2.jpg)
+![Test Two]({{ '/assets/US-80-9_b01_f04_004-test2.jpg' | relative_url }})
 
 This image had a total of 2363 characters.
 
@@ -61,7 +60,7 @@ This image had a total of 2363 characters.
 
 **Test Three**
 
-![Test Three](https://uclibs.github.io/digitization-workflow/assets/US-80-9_b04_f04_004-test3.jpg)
+![Test Three]({{ '/assets/US-80-9_b04_f04_004-test3.jpg' | relative_url }})
 
 This image had a total of 2790 characters.
 
@@ -71,7 +70,7 @@ This image had a total of 2790 characters.
 
 **Test Four**
 
-![Test Four](https://uclibs.github.io/digitization-workflow/assets/US-80-9_b02_f03_003-test4.jpg)
+![Test Four]({{ '/assets/US-80-9_b02_f03_003-test4.jpg' | relative_url }})
 
 This image had a total of 434 characters.
 
@@ -81,7 +80,7 @@ This image had a total of 434 characters.
 
 **Test Five**
 
-![Test Five](https://uclibs.github.io/digitization-workflow/assets/zhdanov_1956-62_084-test5.jpg)
+![Test Five]({{ '/assets/zhdanov_1956-62_084-test5.jpg' | relative_url }})
 
 This image had a total of 805 characters.
 
@@ -91,7 +90,7 @@ This image had a total of 805 characters.
 
 **Test Six**
 
-![Test Six](https://uclibs.github.io/digitization-workflow/assets/taftLetters_1901-10-21_1-test6.jpg)
+![Test Six]({{ '/assets/taftLetters_1901-10-21_1-test6.jpg' | relative_url }})
 
 This image had a total of 1372 characters.
 
