@@ -32,73 +32,73 @@ each program:
 > insertions, or substitutions required to transform *s* into *t*."
 
 In our case, the target string was a human-generated control that either
-James or I transcribed from the original document. We used a Python
-library to calculate the Levenshtein distance of each output when
+James or I transcribed from the original document. We used a [Python
+library](https://pypi.org/project/python-Levenshtein/) to calculate the Levenshtein distance of each output when
 compared to our control, and conducted a total of six tests. We'd like
 to do more tests in the future with a wider selection of documents, but
 we were eager to analyze our results after the first six.
 
 **Test One**
 
-![Test One]({{ '/assets/US-80-9_b01_f02_002-test1.jpg' | relative_url }})
+![Test One]({{ '/assets/US-80-9_b01_f02_002-test1.jpg' | relative_url }}){:height="600px"}
 
 This image had a total of 1542 characters.
 
-  ABBYY   Google C.V.   Transkribus   Equidox   Acrobat Pro   Tesseract
-  ------- ------------- ------------- --------- ------------- -----------
-  64      30            38            135       153           45
+  | ABBYY   | Google C.V.   | Transkribus   | Equidox   | Acrobat Pro   | Tesseract  |
+  | ------- | ------------- | ------------- | --------- | ------------- | -----------|
+  | 64      | 30            | 38            | 135       | 153           | 45         |
 
 **Test Two**
 
-![Test Two]({{ '/assets/US-80-9_b01_f04_004-test2.jpg' | relative_url }})
+![Test Two]({{ '/assets/US-80-9_b01_f04_004-test2.jpg' | relative_url }}){:height="600px"}
 
 This image had a total of 2363 characters.
 
-  ABBYY   Google C.V.   Transkribus   Equidox   Acrobat Pro   Tesseract
-  ------- ------------- ------------- --------- ------------- -----------
-  137     113           97            293       1267          138
+  | ABBYY   | Google C.V.   | Transkribus   | Equidox   | Acrobat Pro   | Tesseract  |
+  | ------- | ------------- | ------------- | --------- | ------------- | -----------|
+  | 137     | 113           | 97            | 293       | 1267          | 138        |  
 
 **Test Three**
 
-![Test Three]({{ '/assets/US-80-9_b04_f04_004-test3.jpg' | relative_url }})
+![Test Three]({{ '/assets/US-80-9_b04_f04_004-test3.jpg' | relative_url }}){:height="600px"}
 
 This image had a total of 2790 characters.
 
-  ABBYY   Google C.V.   Transkribus   Equidox   Acrobat Pro   Tesseract
-  ------- ------------- ------------- --------- ------------- -----------
-  190     109           76            603       265           277
+  | ABBYY   | Google C.V.   | Transkribus   | Equidox   | Acrobat Pro   | Tesseract  |
+  | ------- | ------------- | ------------- | --------- | ------------- | -----------|
+  | 190     | 109           | 76            | 603       | 265           | 277        |
 
 **Test Four**
 
-![Test Four]({{ '/assets/US-80-9_b02_f03_003-test4.jpg' | relative_url }})
+![Test Four]({{ '/assets/US-80-9_b02_f03_003-test4.jpg' | relative_url }}){:height="600px"}
 
 This image had a total of 434 characters.
 
-  ABBYY   Google C.V.   Transkribus   Equidox   Acrobat Pro   Tesseract
-  ------- ------------- ------------- --------- ------------- -----------
-  64      20            15            83        113           13
+  | ABBYY   | Google C.V.   | Transkribus   | Equidox   | Acrobat Pro   | Tesseract  |
+  | ------- | ------------- | ------------- | --------- | ------------- | -----------|
+  | 64      | 20            | 15            | 83        | 113           | 13         |
 
 **Test Five**
 
-![Test Five]({{ '/assets/zhdanov_1956-62_084-test5.jpg' | relative_url }})
+![Test Five]({{ '/assets/zhdanov_1956-62_084-test5.jpg' | relative_url }}){:height="600px"}
 
 This image had a total of 805 characters.
 
-  ABBYY   Google C.V.   Transkribus   Equidox   Acrobat Pro   Tesseract
-  ------- ------------- ------------- --------- ------------- -----------
-  58      2             10            516       175           26
+  | ABBYY   | Google C.V.   | Transkribus   | Equidox   | Acrobat Pro   | Tesseract  |
+  | ------- | ------------- | ------------- | --------- | ------------- | -----------|
+  | 58      | 2             | 10            | 516       | 175           | 26         |
 
 **Test Six**
 
-![Test Six]({{ '/assets/taftLetters_1901-10-21_1-test6.jpg' | relative_url }})
+![Test Six]({{ '/assets/taftLetters_1901-10-21_1-test6.jpg' | relative_url }}){:height="600px"}
 
 This image had a total of 1372 characters.
 
-  ABBYY   Google C.V.   Transkribus   Equidox   Acrobat Pro   Tesseract
-  ------- ------------- ------------- --------- ------------- -----------
-  1341    356           662           N/A       1343          1395
+  | ABBYY   | Google C.V.   | Transkribus   | Equidox   | Acrobat Pro   | Tesseract  |
+  | ------- | ------------- | ------------- | --------- | ------------- | -----------|
+  | 1341    | 356           | 662           | N/A       | 1343          | 1395       |
 
-From these results, we were surprised to note that we got the best OCR
+From these results, we were surprised to note that we got the best overall OCR
 results from the open-source program Tranksribus! The caveat here is
 that Tranksribus was never meant to be used as a general-purpose
 typewritten OCR program. It was designed, as the name implies, to
@@ -108,8 +108,14 @@ that someone else built for 19th and 20th century typewritten Dutch.
 Turns out, the Dutch model did a magnificent job recognizing English as
 well.
 
-Runner up for best OCR was Google Cloud Vision. This came as no surprise
-to us, as the tech giant has been making significant headway in AI
+Something interesting to note, however, was that if you needed to run OCR
+on documents with faded text, Google Cloud Vision was the obvious first choice.
+Test Six revealed that Google C.V. and Transkribus were the only two
+programs able to detect majority of characters on an extremely faded document.
+Out of those two, Google did about twice as well Transkribus.
+
+Runner up for best general OCR was Google Cloud Vision. This came as no
+surprise to us, as the tech giant has been making significant headway in AI
 technology for some time. Honorable mentions are ABBYY Finereader for
 Mac and the open-source Tesseract. Both did an admirable job on general
 typewritten OCR, but fell just short of reaching the accuracy achieved
@@ -118,7 +124,8 @@ by Transkribus and Google Cloud Vision.
 We got the worst results from Adobe Acrobat Pro and Equidox. These two
 programs had the highest Levenshtein distances when compared to our
 control text, often producing gibberish results that were impossible to
-read. I would personally not use either of these programs to run OCR on
+read. On documents with faded text, Equidox failed to register anything at all.
+I would personally not use either of these programs to run OCR on
 our digital collections unless absolutely necessary.
 
 Now that we know which programs produce the most accurate OCR, we have
