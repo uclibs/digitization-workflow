@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "OCR: Who Does it Best?"
+author: Sidney Gao, Digital Imaging Coordinator
 ---
 
 As James and I settle into our new work-from-home routine, we've worked
@@ -139,4 +140,4 @@ I hope to make a post in the near future weighing all the features of
 the programs that did well on OCR: Transkribus, ABBYY Finereader for
 Mac, Google Cloud Vision, and Tesseract.
 
-[^1]: [[https://people.cs.pitt.edu/\~kirk/cs1501/Pruhs/Spring2006/assignments/editdistance/Levenshtein%20Distance.htm]{.underline}](https://people.cs.pitt.edu/~kirk/cs1501/Pruhs/Spring2006/assignments/editdistance/Levenshtein%20Distance.htm)
+[^1]: [[https://people.cs.pitt.edu/\~kirk/cs1501/Pruhs/Spring2006/assignments/editdistance/Levenshtein%20Distance.htm](https://people.cs.pitt.edu/~kirk/cs1501/Pruhs/Spring2006/assignments/editdistance/Levenshtein%20Distance.htm)
