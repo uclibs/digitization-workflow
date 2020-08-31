@@ -21,7 +21,7 @@ starting point. Our goal was to test different OCR softwares in order to
 determine which was the most accurate, and decide which was the best fit
 for our specific digitization workflow.
 
-We tested a mix of five proprietary and open source softwares that we
+We tested a mix of six proprietary and open source softwares that we
 had access to: ABBYY Finereader for Mac, Google Cloud Vision,
 Tranksribus, Equidox, Adobe Acrobat Pro, and Tesseract. We then used the
 Levenshtein distance[^1] to calculate the accuracy of the output from

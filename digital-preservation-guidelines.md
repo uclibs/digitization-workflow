@@ -4,32 +4,32 @@ title: Digital Preservation Guidelines
 permalink: /digital-preservation-guidelines/
 ---
 
-Prepared by Sidney Gao and James Van Mil -- March 2020
+Prepared by Sidney Gao and James Van Mil -- Updated August 2020
 
-Digital preservation efforts are vital to ensuring that UCL's newly
-digitized collections remain accessible for future generations of
-scholars and researchers. The Digital Collections Team is dedicated to
-ensuring that newly digitized collections are responsibly stewarded,
-with the same care that is taken with physical collections. The Digital
-Collections Team also recognizes that immediately implementing
-industry-standard digital preservation policies will negatively impact
-the efficiency of digitization workflows, and is not feasible given
-existing staffing and expertise. Instead, the team works diligently to
-gradually and consistently research and implement standards set by the
-[Open Archival Information System (OAIS)](http://www.oais.info/) and the
-[NDSA Levels of Digital
-Preservation](http://www.digitalpreservation.gov/documents/NDSA_Levels_Archiving_2013.pdf).
+Digital preservation efforts are vital to ensuring that UCL’s newly digitized
+collections remain accessible for future generations of scholars and researchers.
+The Digital Collections Team is dedicated to ensuring that newly digitized
+collections are responsibly stewarded, with the same care that is taken with
+physical collections. The purpose of these guidelines are to set achievable
+digital preservation standards for all newly created digital collections.
 
-This plan outlines a progressive approach for supporting the digital
-preservation needs of the digitized content stewarded by the Digital
-Collections Team. Further attention is needed to understand how to support
-born-digital collections, which is outside the scope of this document.
+### Scope
 
-For any questions about this document, or about the current digital
-preservation plan, please contact the Digital Collections Team at
+These guidelines outline a progressive approach for supporting the digital
+preservation needs of the digitized content stewarded by the Digital Collections
+Team. Further attention is needed to understand how to support born-digital
+collections, which is outside the scope of this document.  
+
+For any questions about this document, or about the current digital preservation
+guidelines, please contact the Digital Collections Team at
 <digitalcontent@ucmail.uc.edu>.
 
 ### Standards
+
+The team works diligently to gradually and consistently research and implement
+standards set by the Open Archival Information System (OAIS) and the NDSA
+Levels of Digital Preservation, facilitated by the Digital Preservation
+Capability Maturity Model (DPCMM).
 
 -   **Open Archival Information System (OAIS)** -- The OAIS model for
     digital preservation has been widely accepted as the standard for
@@ -57,78 +57,11 @@ preservation plan, please contact the Digital Collections Team at
     for growing UCL's digital preservation program will ensure that OAIS
     and NDSA Levels standards are met simultaneously.
 
-### Challenges
-
-The challenges UCL face in creating robust digital preservation
-guidelines are not unique. The Digital Collections Team has collaborated
-with peer institutions facing similar challenges, and hopes to tackle
-the issue with the help of the supportive academic library community.
-While UCL's challenges are all interdependent, outlined below are three
-of the most distinct roadblocks.
-
--   **Labor & Staffing** -- One of the biggest challenges we face is the
-    amount of work it takes to research, create, and implement digital
-    preservation guidelines and workflows for all newly digitized
-    content. Limited staffing means that we do not have existing
-    expertise to tackle all issues, or dedicated positions to focus on
-    research and implementation. The Digital Collections Team focuses on
-    digital preservation peripherally.
-
--   **Expertise** -- While the Digital Collections Team is dedicated to
-    preserving all newly digitized content, members will require
-    extensive training and research in order to fill knowledge gaps and
-    gain practical skills for workflow implementation. Lack of expertise
-    is a challenge tied closely to that of labor and staffing; the team
-    is unable to dedicate the time needed to gain full expertise in an
-    efficient manner.
-
--   **Funding** -- Digital preservation comes at the cost of more than
-    just storage space for backing up digital content. The largest
-    hidden costs of starting a new digital preservation program include
-    professional development and practical training, in addition to
-    labor costs for faculty and staff research & learning. Even with a
-    gradual approach to research and skill building, time taken to focus
-    on digital preservation is time taken away from other job duties.
-    When the research and implementation phase is over, there will also
-    be a significant amount of labor needed for collections assessment;
-    this is a need that will grow alongside the growth of digital
-    collections.
-
-### Strategy
-
-The Digital Collections Team assumes responsibility for digital preservation
-and assessment of all newly digitized collections. The team's strategy
-for creating a robust digital preservation program involves gradually
-incorporating complex digital preservation activities into the list of
-active responsibilities. By slowly fitting in progressive research,
-planning, and implementation of digital preservation activities when
-possible, the Digital Collections Team can reach digital preservation goals
-with existing staffing. Starting small and progressively building on
-existing infrastructure allows the time for members to build theoretical
-and practical expertise in increasingly complex areas of study, as well
-as time for collaboration with peer institutions experiencing similar
-challenges.
-
-This strategy specifically targets the Digital Collections Team's two
-biggest digital preservation roadblocks: labor and expertise. It takes a
-significant amount of labor to gain expertise in and build a digital
-preservation program; spreading responsibilities over a longer period
-allows the Digital Collections Team to focus on smaller, more digestible
-goals that build into a larger digital preservation infrastructure.
-Implementing a slow, controlled approach to building these policies also
-allows frequent assessment and readjustment, as well as time for
-relevant professional development.
-
-The sacrifice we make in implementing this strategy is that it will take
-a significant amount of time for UCL to meet industry standards for
-digital preservation. Given that we are working with existing staffing,
-however, this plan allows us to set realistic goals that lead to
-tangible achievements.
 
 ### Guidelines
 
-In accordance with the strategy of starting small, our current digital
-preservation guidelines are written below. These standards will be
+Our current Digital Preservation Guidelines are written below, and will be
+evaluated annually by the Digital Collections Team. These standards will be
 applied to all newly digitized collections at UC Libraries.
 
 -   Preservation copies of all newly digitized content will take the
@@ -175,4 +108,5 @@ applied to all newly digitized collections at UC Libraries.
 
     -   Content data object description  
 
-    Preservation metadata will be stored on CSV files and packaged alongside preservation copies of digital objects.
+    Preservation metadata will be stored on CSV files and packaged alongside
+    preservation copies of digital objects.
