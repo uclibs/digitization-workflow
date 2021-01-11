@@ -4,7 +4,7 @@ title: Digitization Selection Guidelines
 permalink: /digitization-selection-guidelines/
 ---
 
-Prepared by Sidney Gao and James Van Mil -- June 2020
+Prepared by Sidney Gao and James Van Mil -- updated January 2021
 
 This document provides guidelines for determining the suitability of a
 collection for digitization by the Digital Collections Team, as well as
@@ -91,6 +91,21 @@ criteria:
     researcher
 
 -   Lack of digitization poses high risk of information loss
+
+
+#### Strategic context
+
+The collection will be more impactful if it fulfills any of these criteria:
+
+-   Works towards any of the University of Cincinnati [Strategic Directions](https://www.uc.edu/about/strategic-direction.html),
+    including Academic Excellence, Urban Impact, or the Innovation agenda
+
+-   Supports the work of the UC Libraries Strategic Sizing Charter (internal
+    document)
+
+-   Supports the [Pillars](https://libraries.uc.edu/about/strategic-plan/pillars.html) or
+    the [Tenets](https://libraries.uc.edu/about/strategic-plan/tenets.html) of the UC Libraries Strategic Plan
+
 
 ### **Restrictions**
 
