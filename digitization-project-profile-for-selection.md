@@ -4,7 +4,7 @@ title: Digitization Project Profile
 permalink: /digitization-project-profile/
 ---
 
-Prepared by Sidney Gao and James Van Mil -- June 2020
+Prepared by Sidney Gao and James Van Mil -- updated January 2021
 
 The Digitization Project Profile will ask you the following questions.
 If you feel ready to submit a Project Profile, you can download the form
@@ -22,6 +22,10 @@ of this collection):
 **Vision**  
 What are the goals and objectives for this digital collection? What
 University and UCL goals, missions, and visions are being met?
+
+Consider the [UC Strategic Directions](https://www.uc.edu/about/strategic-direction.html), UCL Strategic
+Sizing Charter (internal document), and the UCL Strategic Plan [Tenets](https://libraries.uc.edu/about/strategic-plan/tenets.html) and
+[Pillars](https://libraries.uc.edu/about/strategic-plan/pillars.html).
 
 **Impact**  
 Define how you will measure the impact of this project. What are the key
