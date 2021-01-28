@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Collection Strategy (Draft)
+title: Collection Strategy 
 permalink: /collection-strategy/
 ---
 
-Prepared by James Van Mil and Sidney Gao - July 2020
+Prepared by James Van Mil and Sidney Gao - Adopted January 2021
 
 ### Values
 
