@@ -1,7 +1,8 @@
-Digital Collections Image Accessibility Standards
-
-University of Cincinnati Libraries
-
+---
+layout: page
+title: Image Accessibility Standards
+permalink: /image-accessibility-standards/
+---
 Prepared by Sidney Gao and James Van Mil -- September 2021
 
 The Digital Content Team is dedicated to ensuring that newly created
