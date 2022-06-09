@@ -34,7 +34,7 @@ incoming digital objects.
 Read these standards to understand the Digital Collections Team's commitment to
 creating accessible PDFs for all newly digitized collections.
 
-[Image Accessibility Standards](/image-accessibility-standards.md)
+[Image Accessibility Standards](/image-accessibility-standards.md)  
 Read these standards to understand the Digital Collections Team's commitment to
 creating accessible images for all newly digitized collections.
 
