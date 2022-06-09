@@ -3,6 +3,7 @@ layout: page
 title: Image Accessibility Standards
 permalink: /image-accessibility-standards/
 ---
+
 Prepared by Sidney Gao and James Van Mil -- September 2021
 
 The Digital Content Team is dedicated to ensuring that newly created
@@ -37,7 +38,7 @@ more complete information.
 digital graphics online and in digital files; alt text is not visible on
 websites unless the image does not appear.
 
-The Plan
+### The Plan
 
 For focused digital collections, the DCT will address image accessibility
 remediation as part of the standard digitization workflow.
